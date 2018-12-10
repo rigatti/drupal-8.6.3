@@ -1,13 +1,13 @@
-name: Bootstrap Barrio Custom Theme
+name: Barrio Custom Theme
 type: theme
-description: 'Basic structure for a Bootstrap Barrio Custom.'
+description: 'Basic structure for a Barrio Custom.'
 # version: VERSION
 # core: 8.x
 base theme: bootstrap_barrio
 
 libraries:
-  - bootstrap_barrio_custom/bootstrap_cdn
-  - bootstrap_barrio_custom/global-styling
+  - barrio_custom/bootstrap_cdn
+  - barrio_custom/global-styling
 
 regions:
   top_header: 'Top Header'
