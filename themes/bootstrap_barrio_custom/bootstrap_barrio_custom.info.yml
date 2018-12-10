@@ -1,6 +1,6 @@
-name: Bootstrap Barrio Subtheme
+name: Bootstrap Barrio Custom Theme
 type: theme
-description: 'Basic structure for a Bootstrap Barrio SubTheme.'
+description: 'Basic structure for a Bootstrap Barrio Custom.'
 # version: VERSION
 # core: 8.x
 base theme: bootstrap_barrio
